@@ -158,7 +158,7 @@ If your bootloader requires the application to start at `0x2000`, configure the 
 
 ## OUTPUT
 
-The stepper motor rotates continuously as the LPC1768 energizes its phases in sequence.
+<img width="1600" height="897" alt="Step1" src="https://github.com/user-attachments/assets/20fe2c54-e5ba-4111-8677-c825fc26f016" />
 
 ## RESULT
 
